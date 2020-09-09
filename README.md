@@ -1,2 +1,2 @@
 # Photo-Gallery
-Simple Gallery View for Pics of a Photograher
+Simple Gallery to view for Pics of a Photograher
